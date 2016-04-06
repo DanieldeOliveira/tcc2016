@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Cast5</string>
+
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="app_id">AF8F763E</string>
+    <string name="media_route_menu_title">Play on&#8230;</string>
+    <string name="intro_overlay_text">Toque para lançar vídeos para o seu TV</string>
+    <string name="video_url">http://www.clickdevelop.esy.es/teste/video/aviao.mp4 </string>
+</resources>
