@@ -41,7 +41,7 @@ public class webserver extends NanoHTTPD{
         }
         else if (tipo.equals("vdo")){
 
-            Log.d(TAG,"Entrou no if do vdo ");
+
 
             FileInputStream fileInputStream = null;
             try {
